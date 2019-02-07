@@ -1,0 +1,11 @@
+/** fonts.css **/
+
+@font-face {
+    font-family: 'ProximaNova-Regular';
+    src: url('fonts/Proxima_Nova.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'ProximaNova-Semibold';
+    src: url('fonts/Proxima_Nova_Semibold.woff') format('woff');
+}
